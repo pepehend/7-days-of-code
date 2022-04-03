@@ -12,3 +12,7 @@
 ### 3º Dia
 
 - Criada toda a parte principal da página, ainda precisando de configurar responsividade.
+
+### 4º Desafio
+
+- Adicionada toda a parte de responsabilidade.

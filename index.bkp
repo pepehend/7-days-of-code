@@ -18,32 +18,22 @@
 
 <body>
   <header>
-    <nav class="py-3 navbar navbar-expand-lg navbar-light w-100">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-          <div class="logo">
-            <img class="logo-img" src="./assets/img/logo.png" alt="Logo" />
-            <span class="logo-text">OptimusTech</span>
-          </div>
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="ms-5 collapse navbar-collapse justify-content-between" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a href="" class="navbar-item">Home</a>
-            <a href="" class="navbar-item">Produtos</a>
-            <a href="" class="navbar-item">Recursos</a>
-            <a href="" class="navbar-item">Sobre Nós</a>
-          </div>
-          <div class="navbar-nav navbar-login">
-            <a href="" class="navbar-item">Entrar</a>
-            <a href="" class="navbar-item">Cadastrar</a>
-          </div>
-        </div>
+    <div class="logo">
+      <img class="logo-img" src="./assets/img/logo.png" alt="Logo" />
+      <span class="logo-text">OptimusTech</span>
+    </div>
+    <div class="navbar">
+      <div class="navbar-content">
+        <a href="" class="navbar-item">Home</a>
+        <a href="" class="navbar-item">Produtos</a>
+        <a href="" class="navbar-item">Recursos</a>
+        <a href="" class="navbar-item">Sobre Nós</a>
       </div>
-    </nav>
+      <div class="navbar-login">
+        <a href="" class="navbar-item">Entrar</a>
+        <a href="" class="navbar-item">Cadastrar</a>
+      </div>
+    </div>
   </header>
 
   <main>
